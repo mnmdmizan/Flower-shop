@@ -1,0 +1,104 @@
+.nav{
+    background-color: chartreuse;
+    height: 80px;
+
+}
+.logo{
+    padding: 20px;
+    padding-left: 40px;
+    font-size: 30px;
+}
+.logo img{
+    border-radius: 100%;
+}
+.bar{
+    padding: 30px;
+
+}
+.bar a{
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.abt{
+    margin: 20px;
+    text-align: center;
+    text-decoration: 
+}
+
+
+.body{
+    background-image;
+}
+.flw{
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.flw h1{
+    background-color: coral;
+    
+}
+.shop{
+    text-align: center;
+    height: 500px;
+    width: 100%;
+    padding-top: 140px;
+    background-image: url("Img/Shop.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+
+}
+.shop h3{
+    font-size: 50px;
+    background-color: lightpink;
+    border-radius: 30px;
+}
+.shop h4{
+    font-size: 35px;
+    background-color: gold;
+    border-radius: 30px;
+}
+.shop h5{
+    font-size: 30px;
+    /* background-color: rgb(255, 136, 0); */
+    border-radius: 30px;
+}
+.shop button{
+    padding: 10px;
+    background-color:rgb(255, 136, 0) ;
+    border-radius: 30px;
+}
+.shop button:hover{
+    transform: scale(1.2);
+}
+.location{
+    height: 250px;
+    width: 100%;
+    background-color: lightseagreen;
+    padding: 20px;
+}
+.cont{
+    padding: 25px;
+    text-align: center;
+}
+    .bot{
+        height: 100px;
+        width: 100%;
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 40px;
+        font-size: 20px;
+    }
+    .bot a{
+       padding: 20px;
+       text-decoration: none;
+       border-radius: 100%;
+    }
+    .bot a:hover{
+        background-color: grey;
+        
+    }
